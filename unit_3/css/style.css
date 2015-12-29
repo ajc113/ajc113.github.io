@@ -1,0 +1,35 @@
+body {
+	background-image: url("http://www.miss-tres.com/wp-content/uploads/2014/07/IMG_2495.jpg");
+	background-size: cover;
+	color: #9CC6FF;
+	text-align: center;
+	font-family: helvetica
+
+}
+
+h1 {
+	font-size: 400%;
+	color: white;
+} 
+
+
+h2 {
+	color: white;				
+}
+
+p, ul {
+	color: white;
+	text-align: center;
+    list-style-type: none;
+
+}
+
+
+h3 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 500%;
+	text-align: center;
+	
+
+}
