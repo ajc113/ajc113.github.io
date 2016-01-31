@@ -1,0 +1,124 @@
+@import url(https://fonts.googleapis.com/css?family=Tillana);
+@import url(https://fonts.googleapis.com/css?family=Kalam);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand+SC);
+@import url(https://fonts.googleapis.com/css?family=The+Girl+Next+Door);
+@import url(https://fonts.googleapis.com/css?family=Delius);
+
+body {
+	background-image: url("http://nominature.com/wp-content/uploads/2015/12/oceans-ocean-waves-nature-sunset-sky-clouds-best-wallpapers-1920x1080.jpg");
+	background-size: cover;
+	color: #99071F;
+	text-align: center;
+	font-family: Delius;
+
+
+}
+
+h1 {
+	font-size: 500%;
+	color: white;
+	line-height: 20px;
+	-webkit-text-stroke: 1px black;
+} 
+
+
+h2 {
+	color: white;
+	font-size:150%;	
+	-webkit-text-stroke: 1px black;			
+}
+
+h3 {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 700%;
+	text-align: center;
+	line-height: 18px;
+	-webkit-text-stroke: 1px white;
+	
+
+}
+
+p, ul {
+	color: white;
+	text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+    margin: 10px;
+    line-height: 35px;
+}
+
+header {
+	background-color: #FFED74; 
+	border: 1px black solid ;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A; 
+	border: 1px black solid ;
+	padding: 20px;
+}
+section {
+background-color: #FFE2B8; 
+	border: 1px black solid ;
+	padding: 10px;
+	overflow: auto;
+	text-align: center;
+
+}
+article {
+	background-color: #E89C6C; 
+	border: 1px black solid ;
+	padding: 20px;
+	width: 20%;
+  	height: 6em;
+  	outline: 3px solid #222;
+  	text-align: center;
+  	line-height: 6em;
+}
+
+#three_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+    width:30%;
+}
+#center{
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+    width:30%;
+}    
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+footer {
+background-color: #FF957E; 
+	border: 1px black solid ;
+	padding: 20px;
+	clear: both;
+}
